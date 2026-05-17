@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-05-17T15:49:30Z",
-  "latest_observed_at": "2026-05-17T15:49:30Z",
+  "updated_at": "2026-05-17T16:44:40Z",
+  "latest_observed_at": "2026-05-17T16:44:40Z",
   "queries": [
     "topic:artificial-intelligence stars:>50 archived:false fork:false",
     "topic:machine-learning stars:>50 archived:false fork:false",
@@ -29,13 +29,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 467315,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 467332,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 467315
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 467332
         }
       ]
     },
@@ -61,13 +61,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 435462,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 435470,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 435462
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 435470
         }
       ]
     },
@@ -87,13 +87,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 372599,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 372612,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 372599
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 372612
         }
       ]
     },
@@ -112,13 +112,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 298146,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 298159,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 298146
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 298159
         }
       ]
     },
@@ -139,13 +139,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 293106,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 293124,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 293106
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 293124
         }
       ]
     },
@@ -167,11 +167,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 195137,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 195137
         }
       ]
@@ -193,13 +193,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 185400,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 185431,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 185400
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 185431
         }
       ]
     },
@@ -223,13 +223,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 184373,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 184374,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 184373
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 184374
         }
       ]
     },
@@ -248,13 +248,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 172882,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 172886,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 172882
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 172886
         }
       ]
     },
@@ -282,13 +282,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 171608,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 171611,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 171608
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 171611
         }
       ]
     },
@@ -319,13 +319,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 162412,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 162415,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 162412
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 162415
         }
       ]
     },
@@ -357,13 +357,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 160689,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 160692,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 160689
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 160692
         }
       ]
     },
@@ -392,13 +392,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 154354,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 154422,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 154354
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 154422
         }
       ]
     },
@@ -417,13 +417,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 148354,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 148358,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 148354
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 148358
         }
       ]
     },
@@ -456,13 +456,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 141664,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 141668,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 141664
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 141668
         }
       ]
     },
@@ -490,13 +490,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 137462,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 137468,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 137462
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 137468
         }
       ]
     },
@@ -529,13 +529,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 136941,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 136946,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 136941
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 136946
         }
       ]
     },
@@ -550,13 +550,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 122408,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 122409,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 122408
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 122409
         }
       ]
     },
@@ -588,13 +588,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 120926,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 120948,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 120926
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 120948
         }
       ]
     },
@@ -613,13 +613,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 113288,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 113294,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 113288
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 113294
         }
       ]
     },
@@ -633,13 +633,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 110585,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 110590,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 110585
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 110590
         }
       ]
     },
@@ -671,13 +671,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 104205,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 104210,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 104205
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 104210
         }
       ]
     },
@@ -697,13 +697,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 104176,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 104180,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 104176
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 104180
         }
       ]
     },
@@ -724,13 +724,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 99960,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 99961,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 99960
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 99961
         }
       ]
     },
@@ -742,13 +742,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 98373,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 98399,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 98373
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 98399
         }
       ]
     },
@@ -777,13 +777,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 94977,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 94981,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 94977
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 94981
         }
       ]
     },
@@ -803,13 +803,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 94291,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 94294,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 94291
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 94294
         }
       ]
     },
@@ -840,13 +840,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 93075,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 93076,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 93075
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 93076
         }
       ]
     },
@@ -858,13 +858,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 91304,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 91307,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 91304
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 91307
         }
       ]
     },
@@ -892,13 +892,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 88867,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 88870,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 88867
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 88870
         }
       ]
     },
@@ -931,11 +931,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 88020,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 88020
         }
       ]
@@ -954,13 +954,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 87508,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 87509,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 87508
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 87509
         }
       ]
     },
@@ -972,13 +972,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 85795,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 85797,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 85795
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 85797
         }
       ]
     },
@@ -990,13 +990,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 83253,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 83264,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 83253
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 83264
         }
       ]
     },
@@ -1019,13 +1019,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 80657,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 80663,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 80657
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 80663
         }
       ]
     },
@@ -1058,13 +1058,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 80253,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 80256,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 80253
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 80256
         }
       ]
     },
@@ -1097,13 +1097,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 78839,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 78838,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 78839
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 78838
         }
       ]
     },
@@ -1128,13 +1128,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 77193,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 77197,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 77193
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 77197
         }
       ]
     },
@@ -1152,13 +1152,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 76421,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 76438,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 76421
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 76438
         }
       ]
     },
@@ -1191,13 +1191,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 76334,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 76343,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 76334
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 76343
         }
       ]
     },
@@ -1219,13 +1219,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 73858,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 73862,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 73858
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 73862
         }
       ]
     },
@@ -1258,13 +1258,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 73358,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 73384,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 73358
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 73384
         }
       ]
     },
@@ -1295,13 +1295,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 68084,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 68099,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 68084
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 68099
         }
       ]
     },
@@ -1327,13 +1327,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 67692,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 67698,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 67692
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 67698
         }
       ]
     },
@@ -1366,13 +1366,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 66234,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 66236,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 66234
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 66236
         }
       ]
     },
@@ -1390,13 +1390,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 66108,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 66107,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 66108
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 66107
         }
       ]
     },
@@ -1428,13 +1428,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 64439,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 64442,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 64439
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 64442
         }
       ]
     },
@@ -1456,11 +1456,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 64073,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 64073
         }
       ]
@@ -1481,11 +1481,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 63552,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 63552
         }
       ]
@@ -1509,13 +1509,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 61235,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 61252,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 61235
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 61252
         }
       ]
     },
@@ -1548,11 +1548,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 60173,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 60173
         }
       ]
@@ -1582,13 +1582,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 58232,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 58238,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 58232
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 58238
         }
       ]
     },
@@ -1617,13 +1617,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 57744,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 57747,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 57744
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 57747
         }
       ]
     },
@@ -1656,13 +1656,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 57236,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 57237,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 57236
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 57237
         }
       ]
     },
@@ -1681,13 +1681,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 52360,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 52362,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 52360
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 52362
         }
       ]
     },
@@ -1720,13 +1720,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 52193,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 52217,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 52193
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 52217
         }
       ]
     },
@@ -1743,13 +1743,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 50363,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 50374,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 50363
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 50374
         }
       ]
     },
@@ -1775,13 +1775,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 49209,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 49220,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 49209
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 49220
         }
       ]
     },
@@ -1805,13 +1805,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 48720,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 48727,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 48720
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 48727
         }
       ]
     },
@@ -1835,12 +1835,67 @@
       "archived": false,
       "fork": false,
       "latest_stars": 48713,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 48713
+        }
+      ]
+    },
+    {
+      "full_name": "1c7/chinese-independent-developer",
+      "url": "https://github.com/1c7/chinese-independent-developer",
+      "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+      "language": "",
+      "topics": [
+        "china",
+        "indie",
+        "indie-developer"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 48575,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 48575
+        }
+      ]
+    },
+    {
+      "full_name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "language": "Python",
+      "topics": [
+        "ai-gateway",
+        "anthropic",
+        "azure-openai",
+        "bedrock",
+        "gateway",
+        "langchain",
+        "litellm",
+        "llm",
+        "llm-gateway",
+        "llmops",
+        "mcp-gateway",
+        "openai",
+        "openai-proxy",
+        "vertex-ai"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 47303,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 47303
         }
       ]
     },
@@ -1871,13 +1926,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 46304,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 46305,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 46304
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 46305
         }
       ]
     },
@@ -1910,13 +1965,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 45444,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 45445,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 45444
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 45445
         }
       ]
     },
@@ -1941,13 +1996,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 45135,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 45141,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 45135
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 45141
         }
       ]
     },
@@ -1980,13 +2035,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 43334,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 43373,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 43334
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 43373
         }
       ]
     },
@@ -2011,13 +2066,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 42641,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 42647,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 42641
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 42647
         }
       ]
     },
@@ -2041,13 +2096,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 40765,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 40770,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 40765
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 40770
         }
       ]
     },
@@ -2069,12 +2124,42 @@
       "archived": false,
       "fork": false,
       "latest_stars": 39678,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 39678
+        }
+      ]
+    },
+    {
+      "full_name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "topics": [
+        "ai-companion",
+        "ai-vtuber",
+        "airi",
+        "digital-life",
+        "grok-companion",
+        "live2d",
+        "neuro-sama",
+        "neurosama",
+        "openclaw",
+        "vrm",
+        "vtuber"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 39338,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 39338
         }
       ]
     },
@@ -2086,13 +2171,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 38707,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 38712,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 38707
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 38712
         }
       ]
     },
@@ -2113,11 +2198,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 38514,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 38514
         }
       ]
@@ -2138,13 +2223,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 36534,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 36547,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 36534
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 36547
         }
       ]
     },
@@ -2173,11 +2258,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 33634,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 33634
         }
       ]
@@ -2197,13 +2282,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 33122,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 33131,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 33122
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 33131
         }
       ]
     },
@@ -2236,13 +2321,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 31476,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 31480,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 31476
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 31480
         }
       ]
     },
@@ -2266,11 +2351,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 29217,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 29217
         }
       ]
@@ -2303,11 +2388,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 28505,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 28505
         }
       ]
@@ -2339,11 +2424,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 28296,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 28296
         }
       ]
@@ -2375,13 +2460,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 27921,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 27923,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 27921
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 27923
         }
       ]
     },
@@ -2407,13 +2492,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 27210,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 27211,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 27210
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 27211
         }
       ]
     },
@@ -2431,13 +2516,52 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 26969,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 26971,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 26969
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 26971
+        }
+      ]
+    },
+    {
+      "full_name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "topics": [
+        "ai-prompts",
+        "ai-skill",
+        "bluesky",
+        "claude",
+        "claude-code",
+        "clawhub",
+        "deep-research",
+        "hackernews",
+        "instagram",
+        "openclaw",
+        "polymarket",
+        "recency",
+        "reddit",
+        "research",
+        "social-media",
+        "tiktok",
+        "trends",
+        "twitter",
+        "web-search",
+        "youtube"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 26025,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 26025
         }
       ]
     },
@@ -2469,11 +2593,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 25977,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 25977
         }
       ]
@@ -2490,13 +2614,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 24999,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 25001,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 24999
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 25001
         }
       ]
     },
@@ -2529,13 +2653,36 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 24982,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 24983,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 24982
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 24983
+        }
+      ]
+    },
+    {
+      "full_name": "toon-format/toon",
+      "url": "https://github.com/toon-format/toon",
+      "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
+      "language": "TypeScript",
+      "topics": [
+        "data-format",
+        "llm",
+        "serialization",
+        "tokenization"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 24281,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 24281
         }
       ]
     },
@@ -2561,11 +2708,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 24197,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 24197
         }
       ]
@@ -2592,13 +2739,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 24004,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 24008,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 24004
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 24008
         }
       ]
     },
@@ -2625,11 +2772,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 22742,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 22742
         }
       ]
@@ -2663,11 +2810,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 22416,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 22416
         }
       ]
@@ -2695,11 +2842,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 22233,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 22233
         }
       ]
@@ -2717,13 +2864,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 21467,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 21477,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 21467
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 21477
         }
       ]
     },
@@ -2754,13 +2901,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 21326,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 21327,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 21326
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 21327
         }
       ]
     },
@@ -2787,11 +2934,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 20843,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 20843
         }
       ]
@@ -2817,13 +2964,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 18770,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 18771,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 18770
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 18771
         }
       ]
     },
@@ -2852,11 +2999,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 18732,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 18732
         }
       ]
@@ -2886,11 +3033,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 18386,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 18386
         }
       ]
@@ -2922,13 +3069,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 16870,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 16871,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 16870
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 16871
         }
       ]
     },
@@ -2940,13 +3087,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 16387,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 16409,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 16387
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 16409
         }
       ]
     },
@@ -2979,13 +3126,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 15127,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 15128,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 15127
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 15128
         }
       ]
     },
@@ -3014,13 +3161,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 14792,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 14798,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 14792
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 14798
         }
       ]
     },
@@ -3051,13 +3198,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 13083,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 13087,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 13083
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 13087
         }
       ]
     },
@@ -3084,13 +3231,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 13016,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 13022,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 13016
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 13022
         }
       ]
     },
@@ -3111,13 +3258,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 12243,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 12244,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 12243
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 12244
         }
       ]
     },
@@ -3145,13 +3292,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 11641,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 11643,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 11641
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 11643
         }
       ]
     },
@@ -3177,13 +3324,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 10982,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 11030,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 10982
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 11030
         }
       ]
     },
@@ -3217,11 +3364,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 10714,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 10714
         }
       ]
@@ -3234,13 +3381,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 10270,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 10277,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 10270
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 10277
         }
       ]
     },
@@ -3273,13 +3420,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 9663,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 9674,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 9663
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 9674
         }
       ]
     },
@@ -3302,13 +3449,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 9455,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 9467,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 9455
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 9467
         }
       ]
     },
@@ -3341,13 +3488,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 7893,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 7898,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 7893
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 7898
         }
       ]
     },
@@ -3370,13 +3517,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 7503,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 7507,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 7503
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 7507
         }
       ]
     },
@@ -3410,11 +3557,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 7461,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 7461
         }
       ]
@@ -3445,11 +3592,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 6477,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 6477
         }
       ]
@@ -3483,13 +3630,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 6021,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 6024,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 6021
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 6024
         }
       ]
     },
@@ -3523,11 +3670,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 5640,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 5640
         }
       ]
@@ -3540,13 +3687,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 5389,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 5390,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 5389
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 5390
         }
       ]
     },
@@ -3573,13 +3720,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 5147,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 5155,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 5147
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 5155
         }
       ]
     },
@@ -3598,13 +3745,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 5064,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 5068,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 5064
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 5068
         }
       ]
     },
@@ -3622,13 +3769,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 4759,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 4761,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 4759
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 4761
         }
       ]
     },
@@ -3661,11 +3808,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 3787,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 3787
         }
       ]
@@ -3695,13 +3842,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 3688,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 3712,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 3688
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 3712
         }
       ]
     },
@@ -3727,13 +3874,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 3598,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 3599,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 3598
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 3599
         }
       ]
     },
@@ -3755,13 +3902,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 3435,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 3438,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 3435
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 3438
         }
       ]
     },
@@ -3791,13 +3938,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 2942,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2946,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2942
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2946
         }
       ]
     },
@@ -3809,13 +3956,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 2731,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2739,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2731
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2739
         }
       ]
     },
@@ -3848,13 +3995,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 2726,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2738,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2726
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2738
         }
       ]
     },
@@ -3866,13 +4013,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 2712,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2714,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2712
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2714
         }
       ]
     },
@@ -3898,11 +4045,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 2688,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 2688
         }
       ]
@@ -3915,13 +4062,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 2630,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2632,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2630
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2632
         }
       ]
     },
@@ -3934,11 +4081,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 2300,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 2300
         }
       ]
@@ -3951,13 +4098,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 2263,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2269,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2263
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2269
         }
       ]
     },
@@ -3987,11 +4134,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 2250,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 2250
         }
       ]
@@ -4009,11 +4156,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 2238,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 2238
         }
       ]
@@ -4043,13 +4190,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 2156,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 2159,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 2156
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 2159
         }
       ]
     },
@@ -4074,11 +4221,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 2079,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 2079
         }
       ]
@@ -4092,11 +4239,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1853,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1853
         }
       ]
@@ -4123,11 +4270,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1796,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1796
         }
       ]
@@ -4151,13 +4298,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1735,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1736,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1735
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1736
         }
       ]
     },
@@ -4185,13 +4332,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1613,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1617,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1613
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1617
         }
       ]
     },
@@ -4207,13 +4354,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1575,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1576,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1575
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1576
         }
       ]
     },
@@ -4238,13 +4385,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1501,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1504,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1501
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1504
         }
       ]
     },
@@ -4272,13 +4419,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1482,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1484,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1482
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1484
         }
       ]
     },
@@ -4307,13 +4454,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1392,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1393,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1392
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1393
         }
       ]
     },
@@ -4339,11 +4486,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1355,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1355
         }
       ]
@@ -4361,11 +4508,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1340,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1340
         }
       ]
@@ -4390,11 +4537,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1246,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1246
         }
       ]
@@ -4420,13 +4567,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1172,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1174,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1172
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1174
         }
       ]
     },
@@ -4439,11 +4586,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1171,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1171
         }
       ]
@@ -4456,13 +4603,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 1153,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1156,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1153
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1156
         }
       ]
     },
@@ -4475,11 +4622,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1109,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1109
         }
       ]
@@ -4493,11 +4640,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1102,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1102
         }
       ]
@@ -4510,13 +4657,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 1086,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1088,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1086
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1088
         }
       ]
     },
@@ -4540,11 +4687,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 1035,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 1035
         }
       ]
@@ -4572,13 +4719,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 1027,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 1029,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 1027
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 1029
         }
       ]
     },
@@ -4598,11 +4745,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 979,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 979
         }
       ]
@@ -4616,11 +4763,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 977,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 977
         }
       ]
@@ -4633,13 +4780,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 970,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 969,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 970
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 969
         }
       ]
     },
@@ -4663,13 +4810,42 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 956,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 958,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 956
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 958
+        }
+      ]
+    },
+    {
+      "full_name": "jmerelnyc/Photo-agents",
+      "url": "https://github.com/jmerelnyc/Photo-agents",
+      "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "autonomous-agents",
+        "computer-use",
+        "llm",
+        "photo-agents",
+        "photographic-memory",
+        "python",
+        "self-evolving-agents",
+        "vision-agents"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 926,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 926
         }
       ]
     },
@@ -4698,41 +4874,12 @@
       "archived": false,
       "fork": false,
       "latest_stars": 926,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 926
-        }
-      ]
-    },
-    {
-      "full_name": "jmerelnyc/Photo-agents",
-      "url": "https://github.com/jmerelnyc/Photo-agents",
-      "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
-      "language": "Python",
-      "topics": [
-        "agent-memory",
-        "ai-agents",
-        "autonomous-agents",
-        "computer-use",
-        "llm",
-        "photo-agents",
-        "photographic-memory",
-        "python",
-        "self-evolving-agents",
-        "vision-agents"
-      ],
-      "archived": false,
-      "fork": false,
-      "latest_stars": 921,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
-      "snapshots": [
-        {
-          "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 921
         }
       ]
     },
@@ -4744,13 +4891,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 917,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 918,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 917
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 918
         }
       ]
     },
@@ -4781,11 +4928,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 862,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 862
         }
       ]
@@ -4820,11 +4967,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 812,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 812
         }
       ]
@@ -4851,11 +4998,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 732,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 732
         }
       ]
@@ -4871,13 +5018,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 730,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 731,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 730
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 731
         }
       ]
     },
@@ -4890,11 +5037,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 723,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 723
         }
       ]
@@ -4916,13 +5063,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 695,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 696,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 695
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 696
         }
       ]
     },
@@ -4938,11 +5085,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 649,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 649
         }
       ]
@@ -4971,11 +5118,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 604,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 604
         }
       ]
@@ -4988,13 +5135,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 597,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 598,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 597
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 598
         }
       ]
     },
@@ -5006,13 +5153,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 588,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 591,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 588
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 591
         }
       ]
     },
@@ -5028,13 +5175,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 582,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 583,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 582
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 583
         }
       ]
     },
@@ -5059,13 +5206,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 560,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 562,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 560
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 562
         }
       ]
     },
@@ -5085,11 +5232,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 524,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 524
         }
       ]
@@ -5118,11 +5265,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 508,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 508
         }
       ]
@@ -5140,11 +5287,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 495,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 495
         }
       ]
@@ -5158,11 +5305,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 490,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 490
         }
       ]
@@ -5180,11 +5327,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 469,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 469
         }
       ]
@@ -5197,13 +5344,13 @@
       "topics": [],
       "archived": false,
       "fork": false,
-      "latest_stars": 448,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 447,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 448
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 447
         }
       ]
     },
@@ -5227,11 +5374,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5266,11 +5413,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5290,11 +5437,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5320,11 +5467,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5353,11 +5500,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5388,11 +5535,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5418,11 +5565,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5455,11 +5602,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 420,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 420
         }
       ]
@@ -5480,13 +5627,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 394,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 395,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 394
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 395
         }
       ]
     },
@@ -5510,13 +5657,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 385,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 386,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 385
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 386
         }
       ]
     },
@@ -5538,11 +5685,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 381,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 381
         }
       ]
@@ -5560,12 +5707,34 @@
       "archived": false,
       "fork": false,
       "latest_stars": 370,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 370
+        }
+      ]
+    },
+    {
+      "full_name": "mrslimslim/gpt-image-canvas",
+      "url": "https://github.com/mrslimslim/gpt-image-canvas",
+      "description": "Local professional AI canvas built with tldraw.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "aiimagegenerator"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 359,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 359
         }
       ]
     },
@@ -5578,11 +5747,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 348,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 348
         }
       ]
@@ -5603,11 +5772,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 338,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 338
         }
       ]
@@ -5626,11 +5795,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 335,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 335
         }
       ]
@@ -5665,11 +5834,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 332,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 332
         }
       ]
@@ -5703,11 +5872,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 329,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 329
         }
       ]
@@ -5742,11 +5911,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 327,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 327
         }
       ]
@@ -5770,11 +5939,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 319,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 319
         }
       ]
@@ -5795,11 +5964,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 318,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 318
         }
       ]
@@ -5824,11 +5993,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 312,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 312
         }
       ]
@@ -5851,11 +6020,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 311,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 311
         }
       ]
@@ -5875,11 +6044,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 302,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 302
         }
       ]
@@ -5908,11 +6077,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 282,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 282
         }
       ]
@@ -5936,11 +6105,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 278,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 278
         }
       ]
@@ -5961,13 +6130,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 260,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 261,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 260
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 261
         }
       ]
     },
@@ -5987,11 +6156,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 244,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 244
         }
       ]
@@ -6021,11 +6190,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 238,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 238
         }
       ]
@@ -6049,11 +6218,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 220,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 220
         }
       ]
@@ -6088,11 +6257,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 219,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 219
         }
       ]
@@ -6127,11 +6296,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 202,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 202
         }
       ]
@@ -6162,11 +6331,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 196,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 196
         }
       ]
@@ -6185,11 +6354,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 196,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 196
         }
       ]
@@ -6221,11 +6390,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 182,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 182
         }
       ]
@@ -6256,13 +6425,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 172,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 173,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 172
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 173
         }
       ]
     },
@@ -6289,11 +6458,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 140,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 140
         }
       ]
@@ -6322,13 +6491,13 @@
       ],
       "archived": false,
       "fork": false,
-      "latest_stars": 122,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_stars": 123,
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
-          "stars": 122
+          "observed_at": "2026-05-17T16:44:40Z",
+          "stars": 123
         }
       ]
     },
@@ -6352,11 +6521,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 114,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 114
         }
       ]
@@ -6377,11 +6546,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 105,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 105
         }
       ]
@@ -6402,11 +6571,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 104,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 104
         }
       ]
@@ -6437,11 +6606,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 89,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 89
         }
       ]
@@ -6466,11 +6635,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 88,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 88
         }
       ]
@@ -6505,11 +6674,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 88,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 88
         }
       ]
@@ -6544,11 +6713,11 @@
       "archived": false,
       "fork": false,
       "latest_stars": 86,
-      "latest_observed_at": "2026-05-17T15:49:30Z",
+      "latest_observed_at": "2026-05-17T16:44:40Z",
       "snapshots": [
         {
           "date": "2026-05-17",
-          "observed_at": "2026-05-17T15:49:30Z",
+          "observed_at": "2026-05-17T16:44:40Z",
           "stars": 86
         }
       ]
