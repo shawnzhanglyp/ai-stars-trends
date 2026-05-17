@@ -1,0 +1,730 @@
+{
+  "version": 1,
+  "updated_at": "2026-05-17T13:17:39Z",
+  "latest_observed_at": "2026-05-17T13:17:39Z",
+  "queries": [
+    "topic:artificial-intelligence stars:>50 archived:false fork:false",
+    "topic:machine-learning stars:>50 archived:false fork:false",
+    "topic:deep-learning stars:>50 archived:false fork:false",
+    "topic:llm stars:>50 archived:false fork:false",
+    "topic:generative-ai stars:>50 archived:false fork:false",
+    "topic:ai-agent stars:>50 archived:false fork:false",
+    "topic:rag stars:>50 archived:false fork:false",
+    "topic:stable-diffusion stars:>50 archived:false fork:false",
+    "large-language-model in:name,description,readme stars:>50 archived:false fork:false",
+    "chatgpt in:name,description,readme stars:>50 archived:false fork:false"
+  ],
+  "repos": [
+    {
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "artificial-intelligence",
+        "autonomous-agents",
+        "claude",
+        "gpt",
+        "llama-api",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 184371,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 184371
+        }
+      ]
+    },
+    {
+      "full_name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "language": "Python",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 160683,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 160683
+        }
+      ]
+    },
+    {
+      "full_name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "agentic-framework",
+        "agentic-workflow",
+        "ai",
+        "automation",
+        "gemini",
+        "genai",
+        "gpt",
+        "gpt-4",
+        "llm",
+        "low-code",
+        "mcp",
+        "nextjs",
+        "no-code",
+        "openai",
+        "orchestration",
+        "python",
+        "rag",
+        "workflow"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 141643,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 141643
+        }
+      ]
+    },
+    {
+      "full_name": "ultralytics/ultralytics",
+      "url": "https://github.com/ultralytics/ultralytics",
+      "description": "Ultralytics YOLO 🚀",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "computer-vision",
+        "deep-learning",
+        "hub",
+        "image-classification",
+        "instance-segmentation",
+        "machine-learning",
+        "object-detection",
+        "pose-estimation",
+        "python",
+        "pytorch",
+        "rotated-object-detection",
+        "segment-anything",
+        "tracking",
+        "ultralytics",
+        "yolo",
+        "yolo-world",
+        "yolo11",
+        "yolo26",
+        "yolov8"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 57233,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 57233
+        }
+      ]
+    },
+    {
+      "full_name": "nexu-io/open-design",
+      "url": "https://github.com/nexu-io/open-design",
+      "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "ai-design",
+        "byok",
+        "claude",
+        "claude-code-for-design",
+        "claude-design",
+        "coding-agents",
+        "design-systems",
+        "design-tools",
+        "desktop-app",
+        "figma-alternative",
+        "generative-ai",
+        "hermes-agent",
+        "local-first",
+        "nextjs",
+        "no-code",
+        "prototyping",
+        "ui-generator",
+        "vibe-coding"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 43175,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 43175
+        }
+      ]
+    },
+    {
+      "full_name": "yamadashy/repomix",
+      "url": "https://github.com/yamadashy/repomix",
+      "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "anthropic",
+        "artificial-intelligence",
+        "chatbot",
+        "chatgpt",
+        "claude",
+        "deepseek",
+        "developer-tools",
+        "gemini",
+        "genai",
+        "generative-ai",
+        "gpt",
+        "javascript",
+        "language-model",
+        "llama",
+        "llm",
+        "mcp",
+        "nodejs",
+        "openai",
+        "typescript"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 24979,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 24979
+        }
+      ]
+    },
+    {
+      "full_name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Machine Learning Systems",
+      "language": "Python",
+      "topics": [
+        "artificial-intelligence",
+        "cloud-ml",
+        "computer-systems",
+        "courseware",
+        "deep-learning",
+        "edge-machine-learning",
+        "embedded-ml",
+        "machine-learning",
+        "machine-learning-systems",
+        "mobile-ml",
+        "textbook",
+        "tinyml"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 24196,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 24196
+        }
+      ]
+    },
+    {
+      "full_name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "topics": [
+        "algorithmic-trading-engine",
+        "artificial-intelligence",
+        "crypto-trading",
+        "equity-trading",
+        "forex",
+        "futures-trading",
+        "machine-learning",
+        "options-trading",
+        "python",
+        "rust",
+        "sports-betting",
+        "trading",
+        "trading-platform"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 22740,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 22740
+        }
+      ]
+    },
+    {
+      "full_name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+      "language": "TypeScript",
+      "topics": [
+        "admin-dashboard",
+        "ai-agent",
+        "ai-agents",
+        "ai-assistant",
+        "ai-tools",
+        "airtable",
+        "crm",
+        "crud",
+        "erp",
+        "internal-tool",
+        "internal-tools",
+        "low-code",
+        "lowcode",
+        "no-code",
+        "nocode",
+        "project-management",
+        "salesforce",
+        "self-hosted",
+        "workflows"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 22416,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 22416
+        }
+      ]
+    },
+    {
+      "full_name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "apple",
+        "computer-use",
+        "computer-use-agent",
+        "containerization",
+        "cua",
+        "desktop-automation",
+        "hacktoberfest",
+        "lume",
+        "macos",
+        "manus",
+        "operator",
+        "swift",
+        "virtualization",
+        "virtualization-framework",
+        "windows",
+        "windows-sandbox"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 16868,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 16868
+        }
+      ]
+    },
+    {
+      "full_name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "chatbot",
+        "embeddings",
+        "evaluation",
+        "generative-ai",
+        "golang",
+        "knowledge-base",
+        "llm",
+        "multi-tenant",
+        "multimodel",
+        "ollama",
+        "openai",
+        "question-answering",
+        "rag",
+        "reranking",
+        "semantic-search",
+        "vector-search",
+        "wiki"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 15116,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 15116
+        }
+      ]
+    },
+    {
+      "full_name": "waooAI/waoowaoo",
+      "url": "https://github.com/waooAI/waoowaoo",
+      "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "automation",
+        "film-production",
+        "generative-ai",
+        "short-drama",
+        "storyboard",
+        "video-generation"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 12242,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 12242
+        }
+      ]
+    },
+    {
+      "full_name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "automation",
+        "autonomous-agent",
+        "browser-automation",
+        "claude",
+        "computer-control",
+        "desktop-automation",
+        "gemini",
+        "lightweight",
+        "llm-agent",
+        "memory-system",
+        "python",
+        "self-evolving",
+        "skill-tree",
+        "task-automation"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 11634,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 11634
+        }
+      ]
+    },
+    {
+      "full_name": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
+      "language": "Python",
+      "topics": [
+        "ai-research",
+        "ai-tools",
+        "aris",
+        "autonomous-agent",
+        "claude",
+        "claude-code",
+        "claude-code-skills",
+        "codex",
+        "deep-learning",
+        "gpt",
+        "idea-generation",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "mcp-server",
+        "ml-research",
+        "openai",
+        "paper-review",
+        "paper-writing",
+        "research-automation"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 9628,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 9628
+        }
+      ]
+    },
+    {
+      "full_name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "computer-vision",
+        "course",
+        "deep-learning",
+        "from-scratch",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "nlp",
+        "python",
+        "reinforcement-learning",
+        "rust",
+        "swarm-intelligence",
+        "transformers",
+        "tutorial",
+        "typescript"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 7883,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 7883
+        }
+      ]
+    },
+    {
+      "full_name": "BlockRunAI/ClawRouter",
+      "url": "https://github.com/BlockRunAI/ClawRouter",
+      "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "cost-optimization",
+        "deepseek",
+        "gemini",
+        "llm",
+        "llm-router",
+        "micropayments",
+        "openai",
+        "openclaw",
+        "smart-routing",
+        "stablecoin-payment",
+        "stablecoin-payments",
+        "usdc",
+        "x402"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 6477,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 6477
+        }
+      ]
+    },
+    {
+      "full_name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "deepseek",
+        "developer-tools",
+        "ink",
+        "llm",
+        "prompt-caching",
+        "r1",
+        "terminal",
+        "tool-use",
+        "tui",
+        "typescript"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 3623,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 3623
+        }
+      ]
+    },
+    {
+      "full_name": "moltis-org/moltis",
+      "url": "https://github.com/moltis-org/moltis",
+      "description": "A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.",
+      "language": "Rust",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "clawdbot",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rust",
+        "sandbox",
+        "self-hosted",
+        "single-binary",
+        "telegram-bot",
+        "voice-assistant"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 2688,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 2688
+        }
+      ]
+    },
+    {
+      "full_name": "hyperspaceai/agi",
+      "url": "https://github.com/hyperspaceai/agi",
+      "description": "The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.",
+      "language": "",
+      "topics": [
+        "agi",
+        "ai-agents",
+        "ai-research",
+        "artificial-general-intelligence",
+        "autonomous-agents",
+        "autonomous-agents-",
+        "autoresearch",
+        "collaborative-ai",
+        "decentralized",
+        "distributed-ai",
+        "llm",
+        "p2p"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 1792,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 1792
+        }
+      ]
+    },
+    {
+      "full_name": "Prompthon-IO/agent-systems-handbook",
+      "url": "https://github.com/Prompthon-IO/agent-systems-handbook",
+      "description": "A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: prompt injection defenses, emerging agent runtimes, and production AI workflow patterns.",
+      "language": "MDX",
+      "topics": [
+        "a2a",
+        "agent-framework",
+        "agent-memory",
+        "agentic-ai",
+        "agentic-workflow",
+        "ai-agent",
+        "ai-agents",
+        "autonomous-agents",
+        "context-engineering",
+        "deep-research",
+        "developer-tools",
+        "generative-ai",
+        "langgraph",
+        "llm-agents",
+        "llm-applications",
+        "mcp",
+        "multi-agent-systems",
+        "prompt-engineering",
+        "rag",
+        "workflow-automation"
+      ],
+      "archived": false,
+      "fork": false,
+      "latest_stars": 202,
+      "latest_observed_at": "2026-05-17T13:17:39Z",
+      "snapshots": [
+        {
+          "date": "2026-05-17",
+          "observed_at": "2026-05-17T13:17:39Z",
+          "stars": 202
+        }
+      ]
+    }
+  ]
+}

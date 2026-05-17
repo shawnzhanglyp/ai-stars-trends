@@ -1,0 +1,5 @@
+config.local.js
+data/*.tmp
+logs/
+__pycache__/
+scripts/__pycache__/

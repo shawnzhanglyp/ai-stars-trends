@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub AI Stars 增长榜</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">GH</div>
+        <div>
+          <h1>GitHub AI Stars 增长榜</h1>
+          <div class="meta-line" id="last-updated">未刷新</div>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div class="segmented" role="tablist" aria-label="统计周期">
+          <button type="button" class="segment active" data-period="day" aria-selected="true">日</button>
+          <button type="button" class="segment" data-period="week" aria-selected="false">周</button>
+          <button type="button" class="segment" data-period="month" aria-selected="false">月</button>
+        </div>
+        <button type="button" class="secondary" id="export-button" disabled>导出</button>
+        <button type="button" class="primary" id="scan-button">刷新</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="control-band" aria-label="查询条件">
+        <label class="field source-field" for="source-select">
+          <span>来源</span>
+          <select id="source-select">
+            <option value="ai">AI 发现</option>
+            <option value="custom">自定义项目</option>
+          </select>
+        </label>
+
+        <label class="field repo-field" for="repo-input">
+          <span id="query-label">AI 搜索</span>
+          <textarea id="repo-input" spellcheck="false"></textarea>
+          <small class="field-note" id="query-help">
+            AI 发现模式下，每行是一个 GitHub 搜索条件；自定义模式下，每行是一个 owner/repo。
+          </small>
+        </label>
+
+        <label class="field token-field" for="token-input">
+          <span>Token</span>
+          <input id="token-input" type="password" autocomplete="off" aria-describedby="token-help" />
+          <small class="field-note" id="token-help">
+            不是 GitHub 账号或密码；填写 GitHub Personal access token。
+          </small>
+        </label>
+
+        <label class="field compact-field" for="sort-select">
+          <span>排序</span>
+          <select id="sort-select">
+            <option value="currentStars">新增</option>
+            <option value="acceleration">加速</option>
+            <option value="dailyRate">日均</option>
+            <option value="totalStars">总 Stars</option>
+          </select>
+        </label>
+
+        <label class="field compact-field" for="candidate-limit">
+          <span>候选数</span>
+          <input id="candidate-limit" type="number" min="10" max="200" value="80" />
+        </label>
+
+        <label class="field compact-field" for="page-limit">
+          <span>最多页</span>
+          <input id="page-limit" type="number" min="1" max="100" value="20" />
+        </label>
+      </section>
+
+      <section class="summary-grid" aria-live="polite">
+        <article class="metric">
+          <span class="metric-label">新增最快</span>
+          <strong id="fastest-name">-</strong>
+          <span id="fastest-value">-</span>
+        </article>
+        <article class="metric">
+          <span class="metric-label">周期新增</span>
+          <strong id="period-total">-</strong>
+          <span id="period-label">近 24 小时</span>
+        </article>
+        <article class="metric">
+          <span class="metric-label">加速领先</span>
+          <strong id="accel-name">-</strong>
+          <span id="accel-value">-</span>
+        </article>
+        <article class="metric">
+          <span class="metric-label">API 额度</span>
+          <strong id="rate-value">-</strong>
+          <span id="rate-reset">-</span>
+        </article>
+      </section>
+
+      <section class="table-band" aria-label="Stars 排行榜">
+        <div class="table-toolbar">
+          <h2>排行榜</h2>
+          <div id="status-text" role="status">等待刷新</div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th class="rank-cell">#</th>
+                <th>项目</th>
+                <th>当前 Stars</th>
+                <th id="current-period-heading">近 24 小时新增</th>
+                <th>上一周期</th>
+                <th>加速</th>
+                <th>日均</th>
+                <th>趋势</th>
+                <th>状态</th>
+              </tr>
+            </thead>
+            <tbody id="results-body">
+              <tr>
+                <td colspan="9" class="empty-cell">暂无数据</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <script src="./config.local.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
