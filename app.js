@@ -57,7 +57,6 @@
     tokenInput: document.querySelector("#token-input"),
     sortSelect: document.querySelector("#sort-select"),
     candidateLimit: document.querySelector("#candidate-limit"),
-    pageLimit: document.querySelector("#page-limit"),
     scanButton: document.querySelector("#scan-button"),
     exportButton: document.querySelector("#export-button"),
     periodButtons: [...document.querySelectorAll("[data-period]")],
@@ -168,7 +167,6 @@
     }
 
     const token = els.tokenInput.value.trim();
-    const pageLimit = clamp(Number.parseInt(els.pageLimit.value, 10) || 20, 1, 100);
     const candidateLimit = clamp(Number.parseInt(els.candidateLimit.value, 10) || 80, 10, 200);
     const scanId = Date.now();
     const controller = new AbortController();
@@ -241,7 +239,6 @@
           const result = await analyzeRepo(repoName, {
             token,
             periodKey: state.period,
-            pageLimit,
             signal: controller.signal,
           });
           if (state.scanId !== scanId) return;
@@ -545,7 +542,7 @@
   }
 
   async function analyzeRepoWithGraphql(repoName, options) {
-    const { token, periodKey, pageLimit, signal } = options;
+    const { token, periodKey, signal } = options;
     const [owner, repo] = repoName.split("/");
     const period = PERIODS[periodKey];
     const now = Date.now();
@@ -577,11 +574,9 @@
     let currentStars = 0;
     let previousStars = 0;
     let pagesScanned = 0;
-    let crossedBoundary = false;
-    let hasNextPage = false;
     const timestamps = [];
 
-    while (pagesScanned < pageLimit) {
+    while (true) {
       const data = await githubGraphql(query, {
         token,
         signal,
@@ -598,7 +593,6 @@
       pagesScanned += 1;
 
       if (!edges.length) {
-        crossedBoundary = true;
         break;
       }
 
@@ -620,14 +614,12 @@
       }
 
       if (Math.min(...times) < previousStart) {
-        crossedBoundary = true;
         break;
       }
 
-      hasNextPage = Boolean(stargazers.pageInfo?.hasNextPage);
+      const hasNextPage = Boolean(stargazers.pageInfo?.hasNextPage);
       cursor = stargazers.pageInfo?.endCursor || null;
       if (!hasNextPage || !cursor) {
-        crossedBoundary = true;
         break;
       }
     }
@@ -643,12 +635,12 @@
       now,
       pagesScanned,
       pageRequests: pagesScanned,
-      truncated: !crossedBoundary && hasNextPage,
+      truncated: false,
     });
   }
 
   async function analyzeRepoWithRest(repoName, options) {
-    const { token, periodKey, pageLimit, signal } = options;
+    const { token, periodKey, signal } = options;
     const [owner, repo] = repoName.split("/");
     const period = PERIODS[periodKey];
     const now = Date.now();
@@ -695,15 +687,13 @@
     let currentStars = 0;
     let previousStars = 0;
     let pagesScanned = 0;
-    let crossedBoundary = false;
     const timestamps = [];
 
-    while (page >= 1 && page <= totalPages && pagesScanned < pageLimit) {
+    while (page >= 1 && page <= totalPages) {
       const stars = await getStarPage(page);
       pagesScanned += 1;
 
       if (!stars.length) {
-        crossedBoundary = true;
         break;
       }
 
@@ -726,15 +716,11 @@
       }
 
       if (times[0] < previousStart) {
-        crossedBoundary = true;
         break;
       }
 
       page -= 1;
     }
-
-    const hasMorePages = page >= 1 && page <= totalPages;
-    const truncated = !crossedBoundary && pagesScanned >= pageLimit && hasMorePages;
 
     return buildRepoResult({
       name: repoName,
@@ -748,7 +734,7 @@
       now,
       pagesScanned,
       pageRequests,
-      truncated,
+      truncated: false,
     });
   }
 
