@@ -50,6 +50,7 @@ git push origin main
 如果新增了新文件，例如新建了这个文档，需要显式 `git add`：
 
 ```bash
+git status --short
 git add GITHUB_SYNC.md
 git commit -m "Add GitHub sync guide"
 git pull --rebase origin main
@@ -71,6 +72,14 @@ GitHub Actions 会定时更新 `data/ai_trends.json`，所以本地开发前建�
 
 ```bash
 git fetch origin
+git pull --ff-only origin main
+```
+
+`--ff-only` 表示只允许快进更新：如果你本地没有额外提交，它会把 GitHub 的最新提交直接下载到本地；如果本地和远端已经分叉，它会停止并提示你处理，避免自动产生多余的 merge commit。
+
+如果你本地已经有未推送的提交，需要把本地提交叠到 GitHub 最新提交之后，用：
+
+```bash
 git pull --rebase origin main
 ```
 
