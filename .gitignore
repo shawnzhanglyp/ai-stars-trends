@@ -1,4 +1,5 @@
 config.local.js
+push.local.env
 data/*.tmp
 logs/
 __pycache__/
