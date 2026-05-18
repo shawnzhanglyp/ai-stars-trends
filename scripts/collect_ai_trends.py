@@ -6,9 +6,10 @@ import os
 import re
 import sys
 import time
+from http.client import RemoteDisconnected
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -50,7 +51,17 @@ def github_token():
     return match.group(1).strip() if match else ""
 
 
-def request_json(url, token):
+def wait_for_reset(reset, fallback=10):
+    try:
+        reset_at = int(reset or "0")
+    except ValueError:
+        reset_at = 0
+    wait_seconds = max(fallback, reset_at - int(time.time()) + 2) if reset_at else fallback
+    print(f"GitHub API limit reached; waiting {wait_seconds}s", file=sys.stderr)
+    time.sleep(wait_seconds)
+
+
+def request_json(url, token, attempts=4):
     headers = {
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
@@ -59,16 +70,35 @@ def request_json(url, token):
     if token:
         headers["Authorization"] = f"Bearer {token}"
 
-    request = Request(url, headers=headers)
-    try:
-        with urlopen(request, timeout=40) as response:
-            remaining = response.headers.get("x-ratelimit-remaining")
-            reset = response.headers.get("x-ratelimit-reset")
-            payload = json.loads(response.read().decode("utf-8"))
-            return payload, remaining, reset
-    except HTTPError as error:
-        body = error.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"GitHub API {error.code}: {body[:300]}") from error
+    for attempt in range(1, attempts + 1):
+        request = Request(url, headers=headers)
+        try:
+            with urlopen(request, timeout=40) as response:
+                remaining = response.headers.get("x-ratelimit-remaining")
+                reset = response.headers.get("x-ratelimit-reset")
+                payload = json.loads(response.read().decode("utf-8"))
+                return payload, remaining, reset
+        except HTTPError as error:
+            body = error.read().decode("utf-8", errors="replace")
+            remaining = error.headers.get("x-ratelimit-remaining")
+            reset = error.headers.get("x-ratelimit-reset")
+            if error.code in (403, 429) and remaining == "0" and attempt < attempts:
+                wait_for_reset(reset)
+                continue
+            if error.code in (502, 503, 504) and attempt < attempts:
+                wait_seconds = min(60, 2**attempt)
+                print(f"GitHub API {error.code}; retrying in {wait_seconds}s", file=sys.stderr)
+                time.sleep(wait_seconds)
+                continue
+            raise RuntimeError(f"GitHub API {error.code}: {body[:300]}") from error
+        except (RemoteDisconnected, TimeoutError, URLError) as error:
+            if attempt == attempts:
+                raise RuntimeError(f"GitHub API request failed after {attempts} attempts: {error}") from error
+            wait_seconds = min(60, 2**attempt)
+            print(f"GitHub API connection error; retrying in {wait_seconds}s: {error}", file=sys.stderr)
+            time.sleep(wait_seconds)
+
+    raise RuntimeError("GitHub API request failed")
 
 
 def search_repositories(query, sort, per_page, token):
